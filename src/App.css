@@ -1,0 +1,33 @@
+body {
+  background-color: black;
+}
+.card-body h3{
+    font-size:10px;
+    color:#FFf;
+}
+
+.card-body h3 a{
+text-decoration: none;
+}
+.container {
+  color: white;
+}
+.card-body h3{
+    font-size:10px;
+    color:#FFf;
+}
+
+.card-body h3 a{
+text-decoration: none;
+color:#FFf;
+}
+.header {
+  background-color: black;
+  border-bottom: 2px solid grey;
+}
+
+.header-title {
+  color: white;
+  margin: 0;
+  padding: 1rem;
+}
